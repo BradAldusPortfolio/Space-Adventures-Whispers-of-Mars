@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="MediumLogo" src="https://github.com/user-attachments/assets/a5c8f950-6fd0-4e20-90ff-8252a93746b6" />
+<img width="300" height="300" alt="LogoLarge" src="https://github.com/user-attachments/assets/a44eca04-065e-48e9-a0b8-b26c5953dfa9" />
 
 # Space-Adventures-Whispers-of-Mars <img width="49.8" height="49.8" alt="Oibr3GlflixGIF" src="https://github.com/user-attachments/assets/24421ef8-3811-4459-8521-518c004130f1" />
 
