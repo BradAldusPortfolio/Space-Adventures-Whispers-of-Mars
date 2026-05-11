@@ -4,7 +4,7 @@
 
 🔴 Space Adventure: Whispers of Mars is the bold new chapter in the beloved sci-fi saga, transporting players to the mysterious and unforgiving landscapes of the Red Planet.
 
-🚀 This latest instalment expands far beyond previous adventures, introducing deep base-building systems, rich character customisation, and powerful upgrades designed to help you survive — and thrive — in the harsh Martian environment.
+🚀 This latest installment expands far beyond previous adventures, introducing deep base-building systems, rich character customisation, and powerful upgrades designed to help you survive and thrive in the harsh Martian environment.
 
 🛠️ Explore vast alien landscapes using enhanced mobility tools and carefully crafted upgrades that make traversal smoother while keeping danger around every corner. A striking new art style brings Mars to life like never before, alongside fresh gameplay mechanics that completely redefine the experience.
 
