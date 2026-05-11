@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="MediumLogo" src="https://github.com/user-attachments/assets/a5c8f950-6fd0-4e20-90ff-8252a93746b6" />
+
 # Space-Adventures-Whispers-of-Mars <img width="49.8" height="49.8" alt="Oibr3GlflixGIF" src="https://github.com/user-attachments/assets/24421ef8-3811-4459-8521-518c004130f1" />
 
 🔴 Space Adventure: Whispers of Mars is the bold new chapter in the beloved sci-fi saga, transporting players to the mysterious and unforgiving landscapes of the Red Planet.
