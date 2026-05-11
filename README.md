@@ -11,3 +11,11 @@
 📖 But Mars holds secrets beneath its surface… Hidden across the planet are scattered journal fragments waiting to be discovered. Piece together the forgotten story behind the whispers of Mars and uncover the truth buried within its desolate beauty.
 
 ✨ Survival is only the beginning. Discovery is everything.
+
+## Softwares
+
+* Unreal Engine
+* Piskel
+* Krita
+
+## Gameplay
