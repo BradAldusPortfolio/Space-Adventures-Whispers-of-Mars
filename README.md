@@ -29,3 +29,7 @@
 ##
 
 <img width="1366" height="768" alt="PromoArt3" src="https://github.com/user-attachments/assets/3b3cf867-c9ba-4837-b2ca-ed68a724071c" />
+
+## Gameplay
+
+Coming Soon!!
